@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.expo/
+*.log
+.DS_Store
+server/dist/
+server/node_modules/
+mobile/node_modules/
+mobile/.expo/
